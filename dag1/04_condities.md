@@ -7,3 +7,4 @@ Voorbeelden van condities in C zijn:
  - `c > 6`
 
 Deze geven 1 als ze waar zijn en 0 als ze niet waar zijn.
+Het is niet zo dat alleen 1 'Waar' is in C, elke waarde die niet 0 is, is 'Waar' in C.
