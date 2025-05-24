@@ -13,4 +13,3 @@ Zulke arrays van arrays worden 2D arrays / matrices genoemd.
 
 Op dezelfde manier kan je ook 3D arrays hebben, 4D arrays hebben, etc.
 
-
