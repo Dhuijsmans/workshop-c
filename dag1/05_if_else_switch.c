@@ -31,16 +31,17 @@ int main()
 	}
 
 	// switch statement
-	
+	//switch( 0 ) {	
+	//switch( 1 ) {
 	switch( some_value ) {
 		case 0:
 			printf( "my_value is 0!\n");
 			break;
 		case 1:
-			printf( "my_value is 0!\n");
+			printf( "my_value is 1!\n");
 			break;
 		case 2:
-			printf( "my_value is 0!\n");
+			printf( "my_value is 2!\n");
 			break;
 		case 3:
 			printf( "my_value is 3!\n");

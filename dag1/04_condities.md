@@ -1,3 +1,5 @@
+# Condities
+
 Condities in C zijn expressies die boolean waardes geven, True en False.
 In C bestaat er geen echte True of False, False in C is 0 en True in C is niet 0.
 

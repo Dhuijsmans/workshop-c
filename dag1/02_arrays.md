@@ -1,3 +1,5 @@
+# Arrays
+
 Arrays zijn rijen variabelen die achter elkaar in het geheugen staan.
 
 **zie demo**

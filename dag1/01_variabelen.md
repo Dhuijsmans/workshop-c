@@ -1,6 +1,8 @@
+# Variabelen
+
 De basis variabelen in C zijn chars (characters), integers, floats, doubles, arrays, pointers en structs.
 
-# Char's en int's
+## Char's en int's
 
 char's worden gebruikt om letters (characters) in op te slaan, of beter gezegd, getallen op te slaan die corresponderen met letters volgens de asciitable, een computers kan immers enkel getallen interpreteren.
 
@@ -21,16 +23,22 @@ Deze library definieert de volgende types:
 - `int64_t`
 - `uint64_t`
 
-# floats en doubles
+## floats en doubles
 
 floats en doubles worden gebruikt om 'kommagetallen' weer te geven, zoals 3,54.
 floats zijn 32 bits en doubles zijn 64 bits.
 floats zijn sneller in gebruik, maar doubles zijn preciezer.
 
-# pointers en structs
+## pointers en structs
 
 Op deze onderwerpen komen we later terug.
 
-# arrays
+## arrays
 
 Hierna aan de beurt!
+
+## typecasting
+
+Het is mogelijk de ene variabele expliciet als een andere variabele te interpreteren, dit heet (type) casting.
+Een belangrijke vorm hiervan is floats als integers interpreteren en vice versa.
+

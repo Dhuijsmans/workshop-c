@@ -1,3 +1,5 @@
+# Functies in C
+
 Functies in C hebben parameters en/of return values.
 Deze parameters en return values hebben een variabele type.
 
