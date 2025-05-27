@@ -21,6 +21,18 @@ Programmeren leer je door te doen, daarom zal de workshop een interactief karakt
 - Linked Lists
 - Linux Rootkit 
 
+# Compilation
+
+In order to run C programs they need to be compiled first.
+On Linux this can be done using the `gcc` compiler:
+
+`gcc code.c -o code`
+
+It can then be ran using:
+
+`./code`
+
+
 # Include statements
 
 Include statements worden gebruikt om header files te importeren.
@@ -304,7 +316,8 @@ for( curr = list; curr; curr = curr->next ) {
 # Assignment
 
 Pick an assignment you want to do:
+- Medium: Use a loop to reverse an array of integers.
+- Hard: Use loops of choice to print all palindromes in a sentence.
+- Harder: Use loops of choice to print all palindromes in a sentence (case insensitive).
 
-- Medium: Use a loop of choice to reverse an array of integers.
-- Hard: Use a loop of choice to print all palindromes in a sentence.
-- Harder: Use a loop of choice to print all palindromes in a sentence (case insensitive).
+
