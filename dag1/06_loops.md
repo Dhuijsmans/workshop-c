@@ -45,6 +45,7 @@ for( curr = list; curr; curr = curr->next ) {
 # Assignment
 
 Pick an assignment you want to do:
+
 - Medium: Use a loop to reverse an array of integers.
 - Hard: Use loops of choice to print all palindromes in a sentence.
 - Harder: Use loops of choice to print all palindromes in a sentence (case insensitive).

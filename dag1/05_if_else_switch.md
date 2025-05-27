@@ -33,7 +33,7 @@ if (cond) {
 else if (cond2) {
     some code;
 }
-```c
+```
 
 Wanneer je heel veel if / else if blokken achter elkaar zou hebben is het soms beter om een switch statement te gebruiken.
 
