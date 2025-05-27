@@ -12,7 +12,7 @@ int main()
 
 
 	// do while loop
-	int i = 16;
+	i = 16;
 	do {
 		printf("do while iteration %d\n", i);	
 		i++;

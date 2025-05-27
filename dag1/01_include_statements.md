@@ -47,10 +47,10 @@ Deze include je op dezelfde manier. Gebruikt voor:
 
 Voor meer info kan je de man pages gebruiken:
 
-Bijvoorbeeld:
-`man 3 stdio`
-`man 3 stdio.h`
-`man 3 stdlib.h`
+Bijvoorbeeld:  
+`man 3 stdio`  
+`man 3 stdio.h`  
+`man 3 stdlib.h`  
 `man 3 strcpy`
 
 3 omdat dit de sectie over standard libraries is, als je dit weglaat, kan het zijn dat hij een gelijknamige functie uit bash pakt, zoals `printf`.
