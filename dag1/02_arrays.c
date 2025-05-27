@@ -25,7 +25,7 @@ int main()
 
 	char my_buf[512] = "Hi there, this an arrays of characters, otherwise known as a string.\n";
 
-	printf(my_buf);
+	printf("%s", my_buf);
 
 	int boter_kaas_eieren[3][3] = { {0 , 1, 0}, {1,1,0}, {1,0,1} };
 

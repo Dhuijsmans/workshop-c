@@ -1,5 +1,5 @@
 #include <string.h>
-
+#include <stdio.h>
 
 void g()
 {
@@ -30,14 +30,14 @@ int optellen(int a, int b)
 void print_main_arguments(int argc, char *argv[])
 {
 	for(int i=0; i < argc; i++) {
-		printf("%s\n",argv[i]);
+		printf("%d: %s\n", i, argv[i]);
 	}
 }
 
 int main(int argc, char *argv[])
 {
 	printf("We zijn nu in functie 'main', om deze zin uit te kunnen printen gebruiken we de functie 'printf'\n");
-	printf("Functie main heeft %d (en dus het programma) parameters (argumenten) meegekregen, deze zijn:\n");
+	printf("Functie main heeft %d (en dus het programma) parameters (argumenten) meegekregen, deze zijn:\n", argc);
 	print_main_arguments(argc, argv);
 	f();
 
